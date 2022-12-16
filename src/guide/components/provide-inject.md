@@ -262,7 +262,7 @@ provide('location', {
 ```
 
 ```vue{5}
-<!-- in injector component -->
+<!-- inside injector component -->
 <script setup>
 import { inject } from 'vue'
 
